@@ -8,6 +8,7 @@ The repository includes the following implementations:
 
 1. Activation functions 
 2. Numpy Neural Network
+3. Classifying numbers with Keras
 
 ## Requirements
 
