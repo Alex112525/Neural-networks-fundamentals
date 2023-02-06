@@ -10,6 +10,7 @@ The repository includes the following implementations:
 2. Numpy Neural Network
 3. Classifying numbers with Keras
 4. Binary classification (IMDB dataset)
+5. Multiple classification (Reuters dataset)
 
 ## Requirements
 
