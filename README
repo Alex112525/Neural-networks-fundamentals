@@ -11,6 +11,7 @@ The repository includes the following implementations:
 3. Classifying numbers with Keras
 4. Binary classification (IMDB dataset)
 5. Multiple classification (Reuters dataset)
+6. Regression (with K-Fold validation)
 
 ## Requirements
 
